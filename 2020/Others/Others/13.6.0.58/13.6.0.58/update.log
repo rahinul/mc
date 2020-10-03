@@ -1,0 +1,22 @@
+[12448]#09:18:09|Fork C:\Users\LENOVO\AppData\Roaming\ViberPC\13.6.0.58\13.6.0.58\updater.exe --pid=2936 --cmd=update --show --force  
+[12448]#09:18:09|Child process id: 12744
+[11320]#09:18:09|Fork: Parent process id: 2936; Process id: 12744
+[11320]#09:18:09|StartInstance
+[9016]#09:18:09|UpdaterTask::onTask {
+[9016]#09:18:09|Checking free space
+[9016]#09:18:09|Free space on C:\Users\LENOVO\AppData\Local\Viber is  54536310784 bytes
+[9016]#09:18:09|Install folder: C:\Users\LENOVO\AppData\Roaming\ViberPC\13.6.0.58\13.6.0.58\data
+[9016]#09:18:09|Update path: C:\Users\LENOVO\AppData\Local\Viber
+[9016]#09:18:09|Update: Viber is closing
+[9016]#09:18:09|Found executed Viber process : 8920
+[9016]#09:18:24|TerminateProcess 0000036C
+[9016]#09:18:24|Found executed Viber process : 8920
+[9016]#09:18:25|Update: Begin transaction
+[9016]#09:18:25|Update is making backup
+[9016]#09:18:25|Update is moving new version to install path
+[9016]#09:18:25|Update is committing
+[9016]#09:18:29|Update: Remove backup directory
+[9016]#09:18:36|Update: [OK]
+[9016]#09:18:38|UpdaterTask::onTask[OK] }
+[11320]#09:18:38|CloseInstance
+[11320]#09:18:38|ExitInstance
